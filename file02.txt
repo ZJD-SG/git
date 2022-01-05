@@ -1,1 +1,2 @@
+count=2
 wo bu ai ni ;
